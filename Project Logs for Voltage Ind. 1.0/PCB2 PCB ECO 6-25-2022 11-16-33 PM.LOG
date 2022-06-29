@@ -1,0 +1,48 @@
+Added Component: Designator=J?(17709661)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1-770966-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1-770966-1/te-connectivity?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F770966%7FG1%7Fpdf%7FEnglish%7FENG_CD_770966_G1.pdf%7F1-770966-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.77mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1-770966-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-1-770966-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/1-770966-1?qs=zthB9rB9njD9XGaVaokK%2Fw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=5V Pin=C4-2
+Added Pin To Net: NetName=CSL Pin=J?-1
+Added Pin To Net: NetName=CSH Pin=J?-2
+Added Pin To Net: NetName=GND Pin=LED4-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=5V Pin=Q1-5
+Added Pin To Net: NetName=5V Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Member To Class: ClassName=VI_circuit Member=Component C1 0.33uF
+Added Member To Class: ClassName=VI_circuit Member=Component C2 0.1uF
+Added Member To Class: ClassName=VI_circuit Member=Component C3
+Added Member To Class: ClassName=VI_circuit Member=Component C4
+Added Member To Class: ClassName=VI_circuit Member=Component C5
+Added Member To Class: ClassName=VI_circuit Member=Component IC1 TS78L05CX_RFG
+Added Member To Class: ClassName=VI_circuit Member=Component J? 1-770966-1
+Added Member To Class: ClassName=VI_circuit Member=Component LED1
+Added Member To Class: ClassName=VI_circuit Member=Component LED2
+Added Member To Class: ClassName=VI_circuit Member=Component LED3
+Added Member To Class: ClassName=VI_circuit Member=Component LED4
+Added Member To Class: ClassName=VI_circuit Member=Component LED5
+Added Member To Class: ClassName=VI_circuit Member=Component Q1 LT1716CS5#PBF
+Added Member To Class: ClassName=VI_circuit Member=Component R1 680
+Added Member To Class: ClassName=VI_circuit Member=Component R2 120k
+Added Member To Class: ClassName=VI_circuit Member=Component R3 120k
+Added Member To Class: ClassName=VI_circuit Member=Component R4 120k
+Added Member To Class: ClassName=VI_circuit Member=Component R5 120k
+Added Member To Class: ClassName=VI_circuit Member=Component R6 120k
+Added Member To Class: ClassName=VI_circuit Member=Component R7 12k
+Added Member To Class: ClassName=VI_circuit Member=Component R8 12k
+Added Member To Class: ClassName=VI_circuit Member=Component R9 2k
+Added Member To Class: ClassName=VI_circuit Member=Component R11 680
+Added Member To Class: ClassName=VI_circuit Member=Component R12 CRCW06032K80FKEA
+Added Member To Class: ClassName=VI_circuit Member=Component U1 BAT-HLD-001-THM
+Added Member To Class: ClassName=VI_circuit Member=Component U2 BAT-HLD-001-THM
+Added Member To Class: ClassName=VI_circuit Member=Component U3 BAT-HLD-001-THM
+Added Room: Name=VI_circuit

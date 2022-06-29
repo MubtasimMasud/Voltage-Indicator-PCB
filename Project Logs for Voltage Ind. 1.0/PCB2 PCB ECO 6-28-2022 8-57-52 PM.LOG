@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=5V Pin=C2-2
+Removed Pin From Net: NetName=5V Pin=IC1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=IC1-2
+Removed Pin From Net: NetName=GND Pin=IC1-3
+Removed Member From Class: ClassName=VI_circuit Member=IC1
+Change Component Footprint: Designator=C2 Old Footprint=FP-C0603C-CF-MFG New Footprint=FP-GRM188-0_1-e0_2_0_5-MFG
+Change Footprint: Footprint Not Found C503B-BCN
+Change Component Comment : Designator=LED5 Old Comment= New Comment=RED LED
+Change Component Comment : Designator=C2 Old Comment=0.1uF New Comment=2.2uF
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Managed Component Library Link : Designator=C2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F80B3148-3272-480B-A8B1-3C3CFF5B2F34 New ItemGUID=018E42C0-272D-4DC9-98FF-BF57A02C7FD8 Old RevisionGUID=F5F640B1-C94D-4CA9-A28B-62B017663A3B New RevisionGUID=5673FA10-AC23-42E8-8464-8509AF615E78
+Change component parameters: Designator = "C2" ("C2"); Footprint = "FP-C0603C-CF-MFG"; UniqueID = "\XWBLKXFP" ("\XWBLKXFP")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.035inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "7.1E-05oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.031inch"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED5" ("LED5"); Footprint = "LEDC3216X200N"; UniqueID = "\IUXYNIBA" ("\IUXYNIBA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C503B-GAS-CB0F0792"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c503b-gas-cb0f0792/cree"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.cree.com/led-components/media/documents/1300-C503B-BAS-BAN-GAS-GAN.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wolfspeed"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C503B-GAS-CB0F0792"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "941-C503BGASCB0F0792"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=941-C503BGASCB0F0792"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(TLE4294GV50HTSA1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TLE4294GV50HTSA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tle4294gv50htsa1/infineon-technologies-ag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/Infineon-TLE4294G%20V50-DataSheet-v01_20-EN.pdf?fileId=5546d46258fc0bc101595fa0bf481fd2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLE4294GV50HTSA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(17709661)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1-770966-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1-770966-1/te-connectivity?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F770966%7FG1%7Fpdf%7FEnglish%7FENG_CD_770966_G1.pdf%7F1-770966-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.77mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1-770966-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-1-770966-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/1-770966-1?qs=zthB9rB9njD9XGaVaokK%2Fw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=NetC1_2 Pin=IC?-3
+Added Pin To Net: NetName=5V Pin=IC?-4
+Added Pin To Net: NetName=GND Pin=IC?-5
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=R7-1
+Added Net: Name=NetJ2_1
+Added Member To Class: ClassName=VI_circuit Member=Component IC? TLE4294GV50HTSA1
+Added Member To Class: ClassName=VI_circuit Member=Component J2 1-770966-1
+Added Member To Class: ClassName=VI_circuit Member=Component U3 BAT-HLD-001-THM
+Added Room: Name=VI_circuit

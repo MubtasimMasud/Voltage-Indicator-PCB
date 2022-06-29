@@ -1,0 +1,12 @@
+Added Component: Designator=LED5(C503B-BCN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C503B-GAS-CB0F0792"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c503b-gas-cb0f0792/cree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.cree.com/led-components/media/documents/1300-C503B-BAS-BAN-GAS-GAN.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wolfspeed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C503B-GAS-CB0F0792"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "941-C503BGASCB0F0792"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=941-C503BGASCB0F0792"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Member To Class: ClassName=VI_circuit Member=Component LED5 red led
+Added Room: Name=VI_circuit
